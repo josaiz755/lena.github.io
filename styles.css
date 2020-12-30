@@ -1,0 +1,170 @@
+#cssmenu::before {
+  content: "";
+  display: block;
+}
+
+#cssmenu::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#cssmenu ul {
+  border-bottom: 1px solid #7ab900;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  position: relative;
+  display: block;
+  font-size: 12px;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+#cssmenu ul::before {
+  content: "";
+  display: block;
+}
+
+#cssmenu ul::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#cssmenu li {
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  display: block;
+}
+
+#cssmenu li a {
+  padding: 9px 15px 0px;
+  color: #ffcc99;
+  height: 24px;
+  float: left;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+#cssmenu li:hover, #cssmenu .active {
+  border-bottom: 2px solid #7ab900;
+  text-decoration: none;
+  color: #ffcc99;
+}
+
+#cssmenu li:hover a {
+  color: white;
+}
+
+#cssmenu .active a {
+  color: white;
+  font-weight: 700;
+}
+
+#titre {
+  font-size: larger;
+}
+
+#mot {
+  color: #4e0048;
+}
+
+#mot2 {
+  color: #4e0048;
+}
+
+#mot3 {
+  color: #4e0048;
+}
+
+#mot4 {
+  color: #4e0048;
+}
+
+#mot5 {
+  color: #4e0048;
+}
+
+#foond {
+  background-color: rgba(105, 53, 50, 0);
+  color: #6a0127;
+  text-decoration: underline;
+}
+
+#dgh {
+  font-size: x-large;
+}
+
+#lll {
+  font-size: x-large;
+}
+
+#kkk {
+  font-size: x-large;
+}
+
+#kiss {
+  font-size: medium;
+}
+
+#nnn {
+  font-size: medium;
+}
+
+#danselena {
+  font-size: x-large;
+}
+
+#gros {
+  font-size: x-large;
+}
+
+#ecriture {
+  font-size: medium;
+}
+
+#twinss {
+  font-size: medium;
+}
+
+#bhjvu {
+  font-size: x-large;
+}
+
+#control {
+  font-size: x-large;
+}
+
+#jj {
+  font-size: medium;
+}
+
+#vfycfh {
+  font-size: medium;
+}
+
+#vyxdgcfhvjkhg {
+  font-size: medium;
+}
+
+#ii {
+  font-size: x-large;
+}
+
+#wsdxdfg {
+  font-size: medium;
+}
+
+#sdf {
+  font-size: x-large;
+}
+
+#entete {
+  font-size: xx-large;
+}
+
+#danseprout {
+  font-size: medium;
+}
+
